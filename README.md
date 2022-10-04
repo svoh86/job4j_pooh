@@ -1,5 +1,4 @@
 # Job4j_pooh
-[![Java CI with Maven](https://github.com/svoh86/job4j_pooh/actions/workflows/maven.yml/badge.svg)](https://github.com/svoh86/job4j_pooh/actions/workflows/maven.yml)
 
 + [О проекте](#О-проекте)
 + [Сборка и запуск](#Сборка-и-запуск)
